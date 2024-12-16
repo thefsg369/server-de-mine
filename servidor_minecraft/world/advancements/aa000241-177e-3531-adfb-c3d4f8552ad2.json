@@ -420,7 +420,8 @@
       "rotten_flesh": "2024-12-16 10:43:04 +0000",
       "cooked_mutton": "2024-12-16 10:37:24 +0000",
       "dried_kelp": "2024-12-16 01:04:07 +0000",
-      "cooked_beef": "2024-12-16 10:54:31 +0000"
+      "cooked_beef": "2024-12-16 10:54:31 +0000",
+      "porkchop": "2024-12-16 11:11:17 +0000"
     },
     "done": false
   },
@@ -511,6 +512,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-16 10:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-16 11:11:14 +0000"
     },
     "done": true
   },
@@ -804,6 +811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-16 11:11:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-16 10:42:00 +0000"
@@ -849,6 +862,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-16 10:42:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-16 11:11:14 +0000"
     },
     "done": true
   },
