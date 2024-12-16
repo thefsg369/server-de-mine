@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:cherry_grove": "2024-12-16 00:30:25 +0000",
       "minecraft:sunflower_plains": "2024-12-16 00:31:26 +0000",
+      "minecraft:river": "2024-12-16 10:50:27 +0000",
       "minecraft:stony_shore": "2024-12-16 00:32:46 +0000",
       "minecraft:plains": "2024-12-16 00:36:36 +0000"
     },
@@ -502,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-16 10:51:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-16 10:45:22 +0000"
@@ -598,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-16 10:54:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-12-16 10:45:22 +0000"
@@ -628,6 +641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-16 10:51:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-16 10:45:22 +0000"
@@ -655,6 +674,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2024-12-16 10:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-16 10:51:47 +0000"
     },
     "done": true
   },

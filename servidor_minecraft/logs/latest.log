@@ -140,3 +140,18 @@
 [10:44:39] [ForkJoinPool.commonPool-worker-20/WARN]: 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188)
 [10:46:54] [Server thread/INFO]: sluisr_ tried to swim in lava
 [10:47:12] [Server thread/INFO]: POLLITO_CALDERA has made the advancement [Getting an Upgrade]
+[10:54:49] [Server thread/INFO]: .Kevin358mc has made the advancement [Sweet Dreams]
+[10:55:10] [Server thread/INFO]: sluisr_ has made the advancement [Sweet Dreams]
+[10:56:25] [localSession-7-2/INFO]: [Geyser-Spigot] Kevin358mc has disconnected from the Java server because of Bedrock client disconnected
+[10:56:25] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Kevin358mc disconnected
+[10:56:25] [Server thread/INFO]: .Kevin358mc lost connection: Disconnected
+[10:56:25] [Server thread/INFO]: .Kevin358mc left the game
+[10:57:27] [Server thread/INFO]: POLLITO_CALDERA has made the advancement [Sweet Dreams]
+[10:59:26] [Server thread/INFO]: sluisr_ was slain by POLLITO_CALDERA
+[11:00:17] [Server thread/INFO]: sluisr_ was blown up by Creeper
+[11:00:35] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Player connected with username Kevin358mc
+[11:00:35] [localSession-7-3/INFO]: [Geyser-Spigot] Kevin358mc (logged in as: Kevin358mc) has connected to the Java server
+[11:00:36] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kevin358mc joined (UUID: 00000000-0000-0000-0009-01fb5a088ea7)
+[11:00:36] [Server thread/INFO]: .Kevin358mc joined the game
+[11:00:36] [Server thread/INFO]: .Kevin358mc[/127.0.0.1:0] logged in with entity id 9133 at ([world]67.5, 101.0, -39.5)
+[11:01:10] [Server thread/INFO]: POLLITO_CALDERA was shot by Skeleton
